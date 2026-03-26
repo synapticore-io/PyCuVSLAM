@@ -1,5 +1,7 @@
 # PyCuVSLAM: CUDA-Accelerated Visual Odometry and Mapping
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N71WOHZ3)
+
 ![Demo](pycuvslam.gif)
 
 ### [ArXiv paper](https://www.arxiv.org/abs/2506.04359) | [Python API](https://nvlabs.github.io/PyCuVSLAM/api.html) | [ROS2](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam)
